@@ -1,0 +1,9 @@
+.container{
+    margin-top: 50px;
+}
+.row .card .text{
+    display: flex;
+    justify-content: space-between;
+    color: gray;
+    font-size: 13px;
+}
